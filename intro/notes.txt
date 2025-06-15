@@ -1,0 +1,36 @@
+React is a Javascript library not a framework, that is used to easily build and arrange user interfaces for web applications.
+
+React focuses on creating web application using these things called components.
+
+A component is a self contained section of code, that functions as a resusable building block. 
+
+React uses syntax extension of JavaScript that is known as JSX, meaning JavaScript and XML. Meaning it will allow you to write HTML like of code in JavaScript files. 
+
+React also utilizes a virtual DOM, a lite weight version of Real DOM of a web page. 
+
+We can keep track of any changes, made to the virtual DOM and only apply that specific changes to the Real DOM without needing to refresh the entire web page, only that specific section, this reduces rendering performance, overhead. 
+
+For React you need to know everything about JavaScript such as array, object, classes, arrow functions, high order function and for-Each loop.
+
+React runs on Node.
+
+Currently React projects are developed in a bundler or building tool called Vite.
+    Command:- npm create vite@latest 
+
+    then,
+    Enter the vite project name:- project_name 
+
+    Select the framework:- React
+
+    Select the variant:- JavaScript 
+
+-> a folder or directory will be created 
+    then,
+        cd  project_name
+
+        npm install or npm i 
+
+        npm run dev (in development mode)
+
+     then,
+        Local: http://localhost:5173/
