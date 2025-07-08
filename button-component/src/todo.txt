@@ -1,0 +1,9 @@
+#How to style React Components with CSS
+
+#(not including external frameworks or preprocessors)
+
+// 1. EXTERNAL (good for global styles or small projects.)
+
+// 2. INTERNAL (good for individual components that have their own unique styles.)
+
+// 3. INLINE (which tends to be good for small components for minimal styling.)
